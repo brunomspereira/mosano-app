@@ -1,0 +1,64 @@
+{
+	"labels": {
+		"name": "Nome",
+		"surname": "Apelido",
+		"country": "País",
+		"birthday": "Aniversário",
+		"save": "Guardar",
+		"pickVisitor": "Lista de Visitantes"
+	},
+	"greeting": "Olá {{name}} de {{country}}. No dia {{day}} de {{month}} você fará {{years}} anos!",
+	"loading": "Carregando...",
+	"revisited": "Entradas Históricas",
+	"home": "Início",
+	"auth": {
+		"enterKey": "Insira a chave de autenticação",
+		"authorize": "Acessar Painel",
+		"authenticating": "Autenticando...",
+		"invalidKey": "Chave de autenticação inválida",
+		"protectedAccess": "Acesso Protegido",
+		"accessDescription": "Insira sua chave de autenticação para acessar as entradas revisitadas.",
+		"logout": "Sair",
+		"checkingAuth": "Verificando autorização..."
+	},
+	"lang": "Idioma",
+	"languages": {
+		"en": "English",
+		"pt": "Português"
+	},
+	"userDetails": {
+		"selectedUser": "Detalhes do Usuário Selecionado",
+		"clearSelection": "Limpar Seleção",
+		"noUsersFound": "Nenhum usuário encontrado"
+	},
+	"table": {
+		"name": "Nome",
+		"country": "País",
+		"birthday": "Aniversário"
+	},
+	"form": {
+		"addNewVisitor": "Adicionar Novo Visitante",
+		"selectCountry": "Selecione o País",
+		"errorLoadingCountries": "Erro ao carregar países",
+		"birthdatePlaceholder": "dd/mm/aaaa",
+		"saving": "Guardando...",
+		"validation": {
+			"required": "Este campo é obrigatório",
+			"dateFormat": "Por favor use o formato DD/MM/AAAA"
+		}
+	},
+	"months": {
+		"january": "Janeiro",
+		"february": "Fevereiro",
+		"march": "Março",
+		"april": "Abril",
+		"may": "Maio",
+		"june": "Junho",
+		"july": "Julho",
+		"august": "Agosto",
+		"september": "Setembro",
+		"october": "Outubro",
+		"november": "Novembro",
+		"december": "Dezembro"
+	}
+}

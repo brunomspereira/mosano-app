@@ -1,0 +1,64 @@
+{
+	"labels": {
+		"name": "Name",
+		"surname": "Surname",
+		"country": "Country",
+		"birthday": "Birthday",
+		"save": "Save",
+		"pickVisitor": "Visitors List"
+	},
+	"greeting": "Hello {{name}} from {{country}}. On {{day}} of {{month}} you will be {{years}} years old!",
+	"loading": "Loading...",
+	"revisited": "Historical Entries",
+	"home": "Home",
+	"auth": {
+		"enterKey": "Enter authentication key",
+		"authorize": "Access Dashboard",
+		"authenticating": "Authenticating...",
+		"invalidKey": "Invalid authentication key",
+		"protectedAccess": "Protected Access",
+		"accessDescription": "Enter your authentication key to access the revisited entries.",
+		"logout": "Logout",
+		"checkingAuth": "Checking authorization..."
+	},
+	"lang": "Language",
+	"languages": {
+		"en": "English",
+		"pt": "Português"
+	},
+	"userDetails": {
+		"selectedUser": "Selected User Details",
+		"clearSelection": "Clear Selection",
+		"noUsersFound": "No users found"
+	},
+	"table": {
+		"name": "Name",
+		"country": "Country",
+		"birthday": "Birthday"
+	},
+	"form": {
+		"addNewVisitor": "Add New Visitor",
+		"selectCountry": "Select Country",
+		"errorLoadingCountries": "Error loading countries",
+		"birthdatePlaceholder": "dd/mm/yyyy",
+		"saving": "Saving...",
+		"validation": {
+			"required": "This field is required",
+			"dateFormat": "Please use DD/MM/YYYY format"
+		}
+	},
+	"months": {
+		"january": "January",
+		"february": "February",
+		"march": "March",
+		"april": "April",
+		"may": "May",
+		"june": "June",
+		"july": "July",
+		"august": "August",
+		"september": "September",
+		"october": "October",
+		"november": "November",
+		"december": "December"
+	}
+}
